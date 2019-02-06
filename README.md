@@ -1,6 +1,6 @@
 # Alex Boboc CV
 
-This repository holds the LaTeX data for producing a PDF version of my most up-to-date **curriculum vitae**. The latest generated version of it can be accessed [here](https://alexboboc.com/doc/cv-english.pdf).
+This repository holds the LaTeX data for producing a PDF version of my most up-to-date **curriculum vitae**. The latest generated version of it can be accessed [here](https://alexboboc.com/doc/alexboboc-cv-english.pdf).
 
 Also, if you want to know more about me, you can visit any of the following:
 
